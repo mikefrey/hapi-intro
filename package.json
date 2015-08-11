@@ -1,0 +1,23 @@
+{
+  "name": "hapi-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikefrey/hapi-intro.git"
+  },
+  "author": "Mike Frey <frey.mike@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikefrey/hapi-intro/issues"
+  },
+  "homepage": "https://github.com/mikefrey/hapi-intro#readme",
+  "dependencies": {
+    "handlebars": "^3.0.3",
+    "hapi": "^8.8.1"
+  }
+}
